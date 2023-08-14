@@ -1,10 +1,11 @@
-# Halo semua! 
+# Halo semua !
+Perkenalkan nama saya **Fatma Hidayah**
+Saya merupakan mahasiswa semeter 7 jurusan Teknik Komputer Universitas Andalas. 
+Saya mendapat kesempatan mengikuti kegiatan MSIB Kampus Merdeka, mengikuti program studi independent.
 
-Perkenalkan nama saya **Fatma Hidayah**.
-
-Saya seorang mahasiswa jurusan Teknik Komputer di Universitas Andalas.
-
-Saya memiliki ketertarikan belajar di bidang pengembangan web terkhususnya di bidang front-end.
-
-Semoga saya bisa menyelesaikan kelas FEBE tepat waktu dan menghasilkan projek yang bagus.
-
+<p align="left">
+<a href="https://github.com/gilangadhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
